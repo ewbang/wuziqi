@@ -2,6 +2,8 @@
 
 基于纯前端实现的五子棋（Gobang）双人对弈与复盘工具，支持禁手规则、棋谱记录与棋局图片导出。
 
+**在线 Demo：** [https://ewbang-github-io.pages.dev/wuziqi/](https://ewbang-github-io.pages.dev/wuziqi/)
+
 ## 功能特性
 
 - **双人对弈**：黑先白后，轮流落子，先五子连珠者胜
