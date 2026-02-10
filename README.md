@@ -4,6 +4,9 @@
 
 **在线 Demo：** [https://ewbang-github-io.pages.dev/wuziqi/](https://ewbang-github-io.pages.dev/wuziqi/)
 
+<img width="2560" height="1409" alt="image" src="https://github.com/user-attachments/assets/5b66633d-904e-46eb-83ae-a123ea851b1d" />
+
+
 ## 功能特性
 
 - **双人对弈**：黑先白后，轮流落子，先五子连珠者胜
